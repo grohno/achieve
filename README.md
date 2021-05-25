@@ -49,7 +49,7 @@
 それらの問題を解決し、気兼ねなく、自分の好きなように、かつ手軽に  
 ガイドブックの体裁を整えたページを作成して、  
 いろんな人にシェアすることができるアプリケーション  
-それがオリジナルガイドブック作成アプリ**「旅の指南書」**です。
+それがオリジナルガイドブック作成アプリ **「旅の指南書」** です。
 
 ---
 
@@ -119,31 +119,32 @@
 
 ### 6.カタログ設計
 
-<a href="https://docs.google.com/spreadsheets/d/18Xw2zgjNRzB6-C02imdrZv5aYeufmeWKqW8L8y7r4rI/edit#gid=1218363235" target="_blank">カタログ設計 Googleスプレッドシートへ<a>
+[カタログ設計 Googleスプレッドシートへ](https://docs.google.com/spreadsheets/d/18Xw2zgjNRzB6-C02imdrZv5aYeufmeWKqW8L8y7r4rI/edit#gid=1218363235)
+
 
 ---
 
 ### 7.テーブル定義
 
-<a href="https://docs.google.com/spreadsheets/d/18Xw2zgjNRzB6-C02imdrZv5aYeufmeWKqW8L8y7r4rI/edit#gid=1922889432" target="_blank">テーブル定義 Googleスプレッドシートへ<a>
+[テーブル定義 Googleスプレッドシートへ](https://docs.google.com/spreadsheets/d/18Xw2zgjNRzB6-C02imdrZv5aYeufmeWKqW8L8y7r4rI/edit#gid=1922889432)
 
 ---
 
 ### 8.ER図
 
-<a href="https://docs.google.com/spreadsheets/d/18Xw2zgjNRzB6-C02imdrZv5aYeufmeWKqW8L8y7r4rI/edit#gid=1640195959" target="_blank">ER図 Googleスプレッドシートへ<a>
+[ER図 Googleスプレッドシートへ](https://docs.google.com/spreadsheets/d/18Xw2zgjNRzB6-C02imdrZv5aYeufmeWKqW8L8y7r4rI/edit#gid=1640195959)
 
 ---
 
 ### 9.画面遷移図
 
-<a href="https://docs.google.com/spreadsheets/d/18Xw2zgjNRzB6-C02imdrZv5aYeufmeWKqW8L8y7r4rI/edit#gid=1436318083" target="_blank">画面遷移図 Googleスプレッドシートへ<a>
+[画面遷移図 Googleスプレッドシートへ](https://docs.google.com/spreadsheets/d/18Xw2zgjNRzB6-C02imdrZv5aYeufmeWKqW8L8y7r4rI/edit#gid=1436318083)
 
 ---
 
 ### 10.ワイヤーフレーム
 
-<a href="https://docs.google.com/spreadsheets/d/18Xw2zgjNRzB6-C02imdrZv5aYeufmeWKqW8L8y7r4rI/edit#gid=87985135" target="_blank">ワイヤーフレーム Googleスプレッドシートへ<a>
+[ワイヤーフレーム Googleスプレッドシートへ](https://docs.google.com/spreadsheets/d/18Xw2zgjNRzB6-C02imdrZv5aYeufmeWKqW8L8y7r4rI/edit#gid=87985135)
 
 ---
 
