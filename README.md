@@ -43,6 +43,10 @@ https://cacoo.com/diagrams/usv5H8ytkbchd0r3/7A555
 ## ER図
 https://cacoo.com/diagrams/wCTsWcQSTj4Q4wAQ/D0A83
 
+![ER図](./public/images/Entity_Relationship_Diagram.png)
+
 
 ## 画面遷移図
 https://cacoo.com/diagrams/Spf2jPQf7Xh4Trp2/40B48
+
+![画面遷移図](./public/images/Screen_transition_diagram.png)
